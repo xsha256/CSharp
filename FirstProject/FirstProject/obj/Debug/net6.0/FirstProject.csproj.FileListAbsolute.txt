@@ -1,0 +1,15 @@
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/bin/Debug/net6.0/FirstProject
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/bin/Debug/net6.0/FirstProject.deps.json
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/bin/Debug/net6.0/FirstProject.runtimeconfig.json
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/bin/Debug/net6.0/FirstProject.dll
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/bin/Debug/net6.0/FirstProject.pdb
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.csproj.AssemblyReference.cache
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.AssemblyInfoInputs.cache
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.AssemblyInfo.cs
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.dll
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/refint/FirstProject.dll
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.pdb
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/FirstProject.genruntimeconfig.cache
+/Users/dr.ford/Desktop/WorkSpaces/FirstProject/FirstProject/obj/Debug/net6.0/ref/FirstProject.dll

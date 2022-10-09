@@ -1,0 +1,15 @@
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/bin/Debug/net6.0/MadLib
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/bin/Debug/net6.0/MadLib.deps.json
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/bin/Debug/net6.0/MadLib.runtimeconfig.json
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/bin/Debug/net6.0/MadLib.dll
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/bin/Debug/net6.0/MadLib.pdb
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.csproj.AssemblyReference.cache
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.AssemblyInfoInputs.cache
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.AssemblyInfo.cs
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.csproj.CoreCompileInputs.cache
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.dll
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/refint/MadLib.dll
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.pdb
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/MadLib.genruntimeconfig.cache
+/Users/dr.ford/Desktop/WorkSpaces/C#/MadLib/MadLib/obj/Debug/net6.0/ref/MadLib.dll
